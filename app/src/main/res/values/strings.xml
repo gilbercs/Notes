@@ -1,0 +1,20 @@
+<resources>
+    <!--String: Nome do App-->
+    <string name="app_name">Bloco Anotações</string>
+    <!--String: App Bar-->
+    <string name="home_app_bar">Bloco de Anotações</string>
+    <string name="create_app_bar">Criar Anotações</string>
+    <string name="update_app_bar">Atualizar Anotações</string>
+    <!--String: ContentDescription-->
+    <string name="icon_edit_note">Inserir</string>
+    <string name="icon_arrow_back">Voltar</string>
+    <string name="icon_check">OK</string>
+    <string name="icon_empty">Vazio</string>
+    <!--String: Criar Anotação-->
+    <string name="note_title">Titulo da Anotação</string>
+    <string name="note_description">Descrição da Anotação</string>
+    <string name="place_holder_note_title">Escreva o Titulo da anotação</string>
+    <string name="place_holder_note_description">Comece a escrever descrição da Anotação aqui!!</string>
+    <!--String: Empty-->
+    <string name="text_empty">Escreva sua Anotação!!</string>
+</resources>
