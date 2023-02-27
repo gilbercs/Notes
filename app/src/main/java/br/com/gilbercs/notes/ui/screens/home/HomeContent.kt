@@ -92,7 +92,7 @@ fun SwipeNote(
                 contentDescription = "",
                 tint = Color.White)
         },
-        background = Orange200
+        background = MaterialTheme.colors.primaryVariant
     )
     SwipeableActionsBox(
         swipeThreshold = ICON_THRESHOLD,
